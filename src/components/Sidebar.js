@@ -6,7 +6,7 @@ import github from "../assets/icons/github.svg";
 import pin from "../assets/icons/pin.svg";
 import tie from "../assets/icons/tie.svg";
 import mightycoder from "../assets/mightycoder.svg";
-import resume from "../assets/resume.pdf";
+import resume from "../assets/OmkarResume.pdf";
 
 const Sidebar = () => {
   const handleEmailMe = () => {
