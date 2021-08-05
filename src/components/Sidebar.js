@@ -12,7 +12,7 @@ import leoLogo from "../assets/Meluha_-_Copy.jpg";
 
 const Sidebar = () => {
   const handleEmailMe = () => {
-    window.open("mailto:aaryannaik220@gmail.com");
+    window.open("mailto:omkarnaik571@gmail.com");
   };
   return (
     <div className="sidebar">
